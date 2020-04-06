@@ -63,7 +63,7 @@
 
     .wrapper.style1 {
         background-image: none;
-        background-color: #fff;
+        background-color: #E1F5C4;
     }
 
     .wrapper.style2 {
@@ -77,7 +77,7 @@
     }
 
     .wrapper.style4 {
-        background-color: #303030;
+        background-color: #A7226E;
         color: #999;
         text-shadow: -1px -1px 0px #181818;
     }
@@ -104,7 +104,7 @@
 /* Nav */
 
 #nav {
-    background-color: #282828;
+    background-color: #A7226E ;
     text-align: center;
     position: fixed;
     left: 0;
